@@ -1,12 +1,21 @@
 
 
  h1 {text-align:center} 
+ img {text-align:center} 
 body {background-image: url(P6.jpg);}
 h1{background-color: rgba(102,51,204, 0.3); }
 h2 {text-align:center}
 body
 {
+	text-align:center
 background:url(P6.jpg);
 background-size:1500px 1800px;
 background-repeat:no-repeat;
 }
+body
+  {
+  border-style:outside ; border-width: 5px; ;
+  border-right-style:dotted;
+  border-left-style:dotted;
+  border-color:;
+  }
