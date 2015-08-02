@@ -20,5 +20,25 @@ h1 {
 #us {
 	height: 35%; 
 }
+#we {
+	height:35%;
+}
 h1{font-size: 50px;}
 h1{color: rgba(0,0,1,51,0.9);}
+ul
+{
+list-style-type:none;
+margin:2px;
+padding:6px;
+color:rgba(255,228,196,1.0);
+}
+
+li
+{
+display:inline;
+}
+a {color:#FFFFFF; text-align: none;}
+a:link {background-color:#202020;}
+a:visited {text-decoration:none;}
+a:hover {text-decoration:none;}
+a:active {text-decoration:none;}
