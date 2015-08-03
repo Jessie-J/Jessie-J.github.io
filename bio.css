@@ -1,12 +1,31 @@
 body 
 {
-	background-image: url(777.jpg);
+	background-image: url(2126.jpg);
 	text-align:center;
 	background-height:100%;
 	background-repeat:repeat;
-	border-style:outside ; border-width: 5px; 	
-    border-style: solid;
-    border-color: rgba(255,255,255, 0.6);
-    border-color:;
+	
     
 }
+
+ul
+{
+list-style-type:none;
+margin:2px;
+padding:6px;
+color:rgba(255,228,196,1.0);
+
+}
+
+li
+{
+display:inline;
+font-size: 18px;
+}
+a {color:#FFFFFF; text-align: none; text-decoration: none;}
+a:link { text-decoration: none; background-color: #87CEFA;}
+a:visited {text-decoration:none;}
+a:hover {text-decoration:none;color:#4B0082;}
+a:active {text-decoration:none;}
+h2{color:  	#FFA07A;}
+h1{color: 	#FFA07A;}
