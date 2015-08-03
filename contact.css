@@ -1,0 +1,47 @@
+body 
+{
+	background-image: url(5943.jpg);
+	
+	background-repeat:repeat;
+
+	
+
+}
+a{
+	position: relative; 
+	left:90px;
+	height:70%;
+	color:#FFFFFF; text-align: none; text-decoration: none;}
+}
+a.kuang:link { text-decoration: none; background-color:#202020;}
+a.kuang:visited {text-decoration:none;}
+a.kuang:hover {text-decoration:underline;color:#6A5ACD;}
+a.kuang:active {text-decoration:underline;}
+
+img
+{
+	opacity:0.4;
+
+}
+img:hover
+{
+	opacity:1.0;}
+h1{color: #DEB887;}
+#mark{border-style: solid ;border-color: #CD853F}
+ul
+{
+list-style-type:none;
+margin:2px;
+padding:6px;
+color:rgba(255,228,196,1.0)
+
+
+}
+li{font-size:20px;}
+h2{text-align:center;
+ font-size: 50px;
+color: 	#6A5ACD;}
+#marks{
+  position: relative; 
+	  left:  490px;}
+#marks{border-style: solid ;border-color: #CD853F}

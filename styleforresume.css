@@ -2,6 +2,9 @@ body
 {
 	background-image: url(89.gif);
 	border-style:none ; border-width: 5px; 
+	border-style:dotted; border-width: 5px; 	
+   
+    border-color:rgba(100,149,237,0.7);
 }
 ul
 {
@@ -34,3 +37,10 @@ text-align: center;
 }
 h3{color:#FFFFFF;}
 h2{color:#FFFFFF;}
+#kuang {width: 100px;
+  margin: 10px;
+  padding: 5px;
+  font-size: 30px;}
+#box{font-size: 20px}
+#introd{color: 	#87CEEB;position: relative; 
+  left: 40px;}
